@@ -62,11 +62,11 @@ function  enviar(){
     alert('Formulário enviado com sucesso!')
     }
 
+
     else {
         
         alert('Preencha corretamente o formulário!')
     }
-
 
 
 }
